@@ -1,5 +1,7 @@
 # S-Mail: Survey E-mail - A Full stack Web App
 
+A full stack web-app build on MERN Stack (Mongo, Express, React, Node).
+
 ## Technologies
 
 -   Front End : React
